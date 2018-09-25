@@ -1,0 +1,6 @@
+[package]
+name = "rust-sketches"
+version = "0.1.0"
+authors = ["Dmtrs Mengidis <tydeas.dr@gmail.com>"]
+
+[dependencies]
